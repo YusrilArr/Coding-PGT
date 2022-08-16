@@ -1,6 +1,6 @@
 # Step 1
 **ini adalah proses push dari repo Lokal ke Github**
-![This is an image](/assets/gitguide.JPG)
+![This is an image](/Coding-PGT/kemampuan dasar/kemampuan-dasar-2/assets/gitguide.JPG)
 ![This is an image](/assets/gitguide2.JPG)
 
 # Step 2
